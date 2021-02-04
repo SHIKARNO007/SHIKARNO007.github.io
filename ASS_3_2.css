@@ -1,0 +1,63 @@
+.body {
+  color: #00FFE7;
+  background-color: #c0ccc5;
+}
+
+.HEADER {
+  font-size: 20px;
+  border: solid 2px;
+  background-color: #1C1B1D;
+  margin: -7px;
+}
+
+.table_who_what {
+  border: solid 2px;
+  border-color: #00FFE7;
+  background-color: #1C1B1D;
+  margin: -7px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+.mini_tables_who_what {
+  border: solid 1px;
+  border-color: #00FFE7;
+  padding: 10px;
+  font-size: 26px;
+}
+.headers_who_what {
+  font-size: 36px;
+}
+
+.link_to_my_blog {
+  font-size: 26px;
+  background-color: #1C1B1D;
+  border: solid 1px;
+  border-color: #00FFE7;
+  margin-right: 860px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.l_t_m_b {
+  color: white;
+}
+
+.form {
+  border: solid 1px;
+  border-color: #00FFE7;
+  border-radius: 10px;
+  background-color: #1C1B1D;
+  font-size: 26px;
+  margin: auto;
+  margin-right: 750px;
+  padding: 30px;
+}
+
+.final_words {
+  font-size: 36px;
+  background-color: #1C1B1D;
+  border: solid 2px;
+  border-color: #00FFE7;
+  padding: 20px;
+  margin: -7px;
+  margin-top: 10px;
+}

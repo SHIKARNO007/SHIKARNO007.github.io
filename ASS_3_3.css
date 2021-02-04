@@ -1,0 +1,50 @@
+.body {
+  color: #00FFE7;
+  background-color: #c0ccc5;
+}
+
+.HEADER {
+  font-size: 20px;
+  border: solid 2px;
+  background-color: #1C1B1D;
+  margin: -7px;
+}
+
+.main_table {
+  border: solid 1px;
+  border-color: #00FFE7;
+  border-radius: 10px;
+  background-color: #1C1B1D;
+  font-size: 26px;
+  margin-top: 15px;
+}
+
+.mini_headers {
+  font-size: 36px;
+}
+
+.SKILLS {
+  border: solid 2px;
+  border-color: #00FFE7;
+}
+
+.photo {
+  border: solid 2px;
+  border-color: #00FFE7;
+}
+
+.text {
+  border: solid 2px;
+  border-color: #00FFE7;
+  padding: 10px;
+}
+
+.final_words {
+  font-size: 36px;
+  background-color: #1C1B1D;
+  border: solid 2px;
+  border-color: #00FFE7;
+  padding: 20px;
+  margin: -7px;
+  margin-top: 10px;
+}
